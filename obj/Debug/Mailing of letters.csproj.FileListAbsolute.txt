@@ -1,0 +1,12 @@
+E:\Project\VS\Mailing-of-letters\Mailing of letters\bin\Debug\Mailing of letters.exe.config
+E:\Project\VS\Mailing-of-letters\Mailing of letters\bin\Debug\Mailing of letters.exe
+E:\Project\VS\Mailing-of-letters\Mailing of letters\bin\Debug\Mailing of letters.pdb
+E:\Project\VS\Mailing-of-letters\Mailing of letters\bin\Debug\OpenPop.dll
+E:\Project\VS\Mailing-of-letters\Mailing of letters\obj\Debug\Mailing of letters.csprojAssemblyReference.cache
+E:\Project\VS\Mailing-of-letters\Mailing of letters\obj\Debug\Mailing_of_letters.MailingOfLetters.resources
+E:\Project\VS\Mailing-of-letters\Mailing of letters\obj\Debug\Mailing_of_letters.Properties.Resources.resources
+E:\Project\VS\Mailing-of-letters\Mailing of letters\obj\Debug\Mailing of letters.csproj.GenerateResource.cache
+E:\Project\VS\Mailing-of-letters\Mailing of letters\obj\Debug\Mailing of letters.csproj.CoreCompileInputs.cache
+E:\Project\VS\Mailing-of-letters\Mailing of letters\obj\Debug\Mailing of letters.csproj.CopyComplete
+E:\Project\VS\Mailing-of-letters\Mailing of letters\obj\Debug\Mailing of letters.exe
+E:\Project\VS\Mailing-of-letters\Mailing of letters\obj\Debug\Mailing of letters.pdb
