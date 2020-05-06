@@ -49,6 +49,7 @@
             this.theme = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
+            this.label8 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             this.panel3.SuspendLayout();
@@ -172,6 +173,7 @@
             // 
             // panel3
             // 
+            this.panel3.Controls.Add(this.label8);
             this.panel3.Controls.Add(this.addressees);
             this.panel3.Controls.Add(this.label7);
             this.panel3.Dock = System.Windows.Forms.DockStyle.Right;
@@ -185,9 +187,10 @@
             // 
             this.addressees.Location = new System.Drawing.Point(6, 36);
             this.addressees.Name = "addressees";
-            this.addressees.Size = new System.Drawing.Size(313, 404);
+            this.addressees.Size = new System.Drawing.Size(313, 377);
             this.addressees.TabIndex = 1;
             this.addressees.Text = "";
+            this.addressees.TextChanged += new System.EventHandler(this.addressees_TextChanged);
             this.addressees.KeyDown += new System.Windows.Forms.KeyEventHandler(this.addressees_KeyDown);
             // 
             // label7
@@ -255,6 +258,16 @@
             this.label4.TabIndex = 0;
             this.label4.Text = "Письмо";
             // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Location = new System.Drawing.Point(6, 421);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(218, 19);
+            this.label8.TabIndex = 2;
+            this.label8.Text = "Количество строк в адресатах: ";
+            this.label8.Visible = false;
+            // 
             // MailingOfLetters
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -267,6 +280,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.Name = "MailingOfLetters";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Массовая рассылка писем";
             this.Load += new System.EventHandler(this.MailingOfLetters_Load);
             this.panel1.ResumeLayout(false);
@@ -303,6 +317,7 @@
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label result_send_out;
+        private System.Windows.Forms.Label label8;
     }
 }
 

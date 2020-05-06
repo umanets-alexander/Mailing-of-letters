@@ -9,3 +9,4 @@ E:\Project\VS\Mailing of letters\obj\Release\Mailing of letters.csproj.CoreCompi
 E:\Project\VS\Mailing of letters\obj\Release\Mailing of letters.csproj.CopyComplete
 E:\Project\VS\Mailing of letters\obj\Release\Mailing of letters.exe
 E:\Project\VS\Mailing of letters\obj\Release\Mailing of letters.pdb
+E:\Project\VS\Mailing of letters\obj\Release\Mailing of letters.csprojAssemblyReference.cache

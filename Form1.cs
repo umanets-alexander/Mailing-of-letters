@@ -12,6 +12,7 @@ using System.Net.Mail;
 using System.Net;
 using System.Net.Sockets;
 using OpenPop.Pop3; //устанавливается через консоль NuGet - Install-Package OpenPop.NET
+using System.Threading;
 
 namespace Mailing_of_letters
 {
@@ -67,6 +68,7 @@ namespace Mailing_of_letters
                 client.Port = 25;
                 client.Credentials = new System.Net.NetworkCredential(e_mail.Text, pass.Text);
                 client.EnableSsl = true;
+                Thread.Sleep(2000);
                 i += 1;
                 result_send_out.Visible = true;
                 if (i == 1)
@@ -85,5 +87,11 @@ namespace Mailing_of_letters
             }
         }
 
+        // Подсчёт количества строк в адрессатах при изменении содержимого
+        private void addressees_TextChanged(object sender, EventArgs e)
+        {
+            label8.Visible = true;
+            label8.Text = "Количество строк в адресатах: " + addressees.Lines.Length.ToString();
+        }
     }
 }
