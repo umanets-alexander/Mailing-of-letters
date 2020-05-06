@@ -4,6 +4,6 @@
 
 Использую ли я её? Да! Забанили ли меня? Нет! В чём причина (возможно)? Обхожу скрытым трафиком с использованием раздачи интернета с мобильного телефона путем подключения по [PdaNet](http://4pda.ru/forum/index.php?showtopic=138332), проверить на обычном интернете нет возможности, так как в моей ситуации другого интернета нет.
 
-Скриншот ПО представлен ниже![Скриншот ПО](https://psv4.userapi.com/c856420/u571674994/docs/d3/57347c2ef10e/Mailing_of_letters.png?extra=MOxRc_qWm5_2xlmURgXdgWeWUCF5nvPF3N6JtSrzQqRNMlIEB4TjdCu2ZaENJNZsR3D1UUdOFFSuiw1sMolL1eEgEEEqY_-nsFyEOJZT3Io0u-r2d3qbgxCk5z1kMM4ioSvca_sIiJBvQxquBwLbJf8ANw)
+Скриншот ПО представлен ниже![Скриншот ПО](https://psv4.userapi.com/c856420/u571674994/docs/d3/57347c2ef10e/Mailing_of_letters.png)
 
 На данный есть планы по дальнеёшей разработке, это лишь вопрос времени и я планирую продолжать усовершенствовать по мере возможности.
